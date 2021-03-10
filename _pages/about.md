@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
+Hello! I just started creating this website in earnest. Until this sentence is removed, I would say none of the links at the top are reliable, and are all coming from the template that I'm starting from.
 
 I am a postdoctoral scholar at the University of California, Santa Cruz (UCSC). I work with Prof. Pascale Garaud in the Applied Mathematics department. Previously, I was a PhD student in the Physics department at the University of Wisconsin-Madison working with Profs. Paul Terry and Ellen Zweibel, and as an undergraduate I studied physics and math at the University of Oregon.
 
