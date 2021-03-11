@@ -20,4 +20,4 @@ Presently, I am studying MHD turbulence driven by shear-flow instabilities and b
 
 I welcome participation from students. This kind of research is amenable to involvement from students with a variety of interests and backgrounds (e.g. projects with lots of programming vs little programming). If you're a UCSC student interested in working on this kind of stuff, don't be a stranger! Please reach out to me and/or Prof. Garaud.
 
-In my spare time, my recent passion has become windsurfing. I also recently fell in love with sailing more broadly, including keelboat racing, and sailing on 420s, lasers, and E-scows. When those activities aren't accessible I enjoy a good hike or bike ride.
+In my spare time, I recently got way into windsurfing, and sailing more broadly, including keelboat racing, and sailing on 420s, lasers, and E-scows. When those activities aren't accessible I enjoy a good hike or bike ride.
