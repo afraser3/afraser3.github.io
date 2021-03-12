@@ -10,6 +10,6 @@ citation: 'Fraser, A.E., Terry, P.W., Zweibel, E.G., Pueschel, M.J. (2017), <i>P
 ---
 Analytic calculations show that stable (damped) inviscid modes are nonlinear driven by unstable modes in an unstratified shear flow.
 
-Download links: [DOI](https://doi.org/10.1063/1.4985322) [arXiv](https://arxiv.org/abs/1610.06142) [ADS](https://ui.adsabs.harvard.edu/abs/2017PhPl...24f2304F/abstract)
+Download links: [DOI](https://doi.org/10.1063/1.4985322), [arXiv](https://arxiv.org/abs/1610.06142), [ADS](https://ui.adsabs.harvard.edu/abs/2017PhPl...24f2304F/abstract)
 
 Recommended citation: Fraser, A.E., Terry, P.W., Zweibel, E.G., Pueschel, M.J. (2017), <i>Physics of Plasmas</i> 24, 062304.
