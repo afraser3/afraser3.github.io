@@ -5,7 +5,6 @@ permalink: /publication/2017-6-14-Coupling-of-damped-and-growing-modes-in-unstab
 excerpt: 'Analytic calculations show that stable (damped) inviscid modes are nonlinear driven by unstable modes in an unstratified shear flow.'
 date: 2017-6-14
 venue: 'Physics of Plasmas'
-test: TEST
 paperurl: 'http://afraser3.github.io/files/Fraser2017.pdf'
 citation: 'Fraser, A.E., Terry, P.W., Zweibel, E.G., Pueschel, M.J. (2017), <i>Physics of Plasmas</i> 24, 062304.'
 ---
