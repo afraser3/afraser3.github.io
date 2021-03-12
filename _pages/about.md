@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is a work in progress. None of the links above work except for the Publications link, where you can find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf). Instead of the link above, [click here](http://afraser3.github.io/files/Fraser_CV.pdf) for CV as of March 2021.
+Hello! This is a work in progress. None of the links above work except for the Publications link, where you can find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf). Instead of the link above, [click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (as of March 2021).
 
 I'm a postdoc at the University of California, Santa Cruz (UCSC). I work with Prof. Pascale Garaud in the Applied Math department. Previously, I was a PhD student in the Physics department at the University of Wisconsin-Madison working with Profs. Paul Terry and Ellen Zweibel, and as an undergraduate I studied physics and math at the University of Oregon.
 
