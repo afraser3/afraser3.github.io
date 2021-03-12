@@ -8,7 +8,8 @@ venue: 'Physics of Plasmas'
 paperurl: 'http://afraser3.github.io/files/Fraser2018.pdf'
 citation: 'Fraser, A.E., Pueschel, M.J., Terry, P.W., and Zweibel, E.G. (2018), <i>Physics of Plasmas</i> 24, 122303.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Nonlinear excitation of stable modes are shown from simulations of shear-flow turbulence; inclusion of stable modes in reduced models explored.
+
 Download links: [DOI](https://doi.org/10.1063/1.5049580), [arXiv](https://arxiv.org/abs/1807.09280), [ADS](https://ui.adsabs.harvard.edu/abs/2018PhPl...25l2303F/abstract)
 
 Recommended citation: Fraser, A.E., Pueschel, M.J., Terry, P.W., and Zweibel, E.G. (2018), <i>Physics of Plasmas</i> 25, 122303.
