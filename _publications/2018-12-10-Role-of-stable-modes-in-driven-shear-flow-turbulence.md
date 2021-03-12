@@ -6,7 +6,7 @@ excerpt: 'Nonlinear excitation of stable modes are shown from simulations of she
 date: 2018-12-10
 venue: 'Physics of Plasmas'
 paperurl: 'http://afraser3.github.io/files/Fraser2018.pdf'
-citation: 'Fraser, A.E., Pueschel, M.J., Terry, P.W., and Zweibel, E.G. (2018), <i>Physics of Plasmas</i> 24, 122303.'
+citation: 'Fraser, A.E., Pueschel, M.J., Terry, P.W., and Zweibel, E.G. (2018), <i>Physics of Plasmas</i> 25, 122303.'
 ---
 Nonlinear excitation of stable modes are shown from simulations of shear-flow turbulence; inclusion of stable modes in reduced models explored.
 
