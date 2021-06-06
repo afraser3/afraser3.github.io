@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is a work in progress. The Talks page above hasn't been filled in yet, but you can click the Publications link above to find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf) and refereed publications. [Click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (as of March 2021).
+Hello! This is a work in progress. The Talks page hasn't been filled in yet, but you can click the Publications link above to find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf) and refereed publications. [Click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (as of March 2021).
+
+During the COVID-19 lockdown, two of the virtual talks I gave were recorded and are publicly accessible. [Click here](https://online.kitp.ucsb.edu/online/staircase21/mechanisms3/) to see a talk I gave about my PhD research to the [Staircases 2021 KITP meeting](https://online.kitp.ucsb.edu/online/staircase21/) (I'm the third speaker in the recording; note this was aimed at a high-level audience, so I skipped a lot of introductory material that I usually cover in talks), and [click here](https://www.youtube.com/watch?v=bbHKFgBnQKg) for an asynchronous talk I recorded to introduce participants of [KSPA 2020/2021](https://kspa.soe.ucsc.edu/2020) to myself and some of my recent work at UCSC (note this was intended to be very short and informal to serve as a baseline for subsequent discussions, not quite a formal talk).
 
 I'm a postdoc at the University of California, Santa Cruz (UCSC). I work with Prof. Pascale Garaud in the Applied Math department. Previously, I was a PhD student in the Physics department at the University of Wisconsin-Madison working with Profs. Paul Terry and Ellen Zweibel, and as an undergraduate I studied physics and math at the University of Oregon.
 
