@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is a work in progress. The Talks page hasn't been filled in yet, but you can click the Publications link above to find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf) and refereed publications. [Click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (as of February 2022).
+Hello! This is a work in progress. The Talks page hasn't been filled in yet, but you can click the Publications link above to find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf) and refereed publications. [Click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (as of April 2022).
 
 During the COVID-19 lockdown, some of the virtual talks I gave were recorded and are publicly accessible:
 [Click here](https://online.kitp.ucsb.edu/online/transtar-c21/fraser/) to see a talk I gave about thermohaline mixing in MHD to the Transport in Stars 2021 KITP conference. 
