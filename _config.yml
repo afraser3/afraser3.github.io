@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Adrian Fraser"
   avatar           : "headshot.jpeg"
-  bio              : "Postdoc at UCSC, Applied Math department"
-  location         : "Santa Cruz, CA"
+  bio              : "Hale Postdoctoral Fellow at CU-Boulder, LASP, APS, and Applied Math"
+  location         : "Boulder, CO"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OtBEMssAAAAJ&hl=en"
-  email            : "adfraser@ucsc.edu"
+  email            : "adrian DOT fraser AT colorado DOT edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
