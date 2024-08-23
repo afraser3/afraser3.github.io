@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is a work in progress, but here you can find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf), or [click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (refereed publications listed at the end) as of March 2024.
+Hello! This is a work in progress, but here you can find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf), or [click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (refereed publications listed at the end) as of August 2024.
 
 During the COVID-19 lockdown, some of the virtual talks I gave were recorded and are publicly accessible:
 [Click here](https://www.youtube.com/watch?v=v25gAz-nUDc) for a talk I gave as part of the Fluids and MHD seminar series at Leeds on fingering convection/thermohaline mixing in MHD, or [click here](https://online.kitp.ucsb.edu/online/transtar-c21/fraser/) to see a similar talk I gave to the Transport in Stars 2021 KITP conference. 
