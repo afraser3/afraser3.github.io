@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is a work in progress, but here you can find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf), or [click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (refereed publications listed at the end) as of September 2024.
+Hello! This is a work in progress, but here you can find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf), or [click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (refereed publications listed at the end) as of September 2024. The research tab above will take you to a partial summary of my research.
 
-I am an NSF Astronomy and Astrophysics Postdoctoral Fellow at the University of Colorado, Boulder. Previously, I was a Hale Postdoctoral Fellow at CU-Boulder, after doing a brief postdoc at the University of California, Santa Cruz (UCSC) working with Prof. Pascale Garaud in the Applied Math department. I earned my PhD in Physics at the University of Wisconsin-Madison working with Profs. Paul Terry and Ellen Zweibel (on plasma shear flows), and as an undergraduate I studied physics and math at the University of Oregon.
+### If you are a student (grad or undergrad) at CU-Boulder interested in working on one of several research topics ranging from simple fluid instabilities to MHD turbulence in stars, please get in touch!
+I'm especially hoping to work with students on follow-up work pertaining to [this paper on fluid instabilities](https://doi.org/10.1017/jfm.2022.782), or [this paper on MHD turbulence in stars](https://doi.org/10.3847/1538-4357/ad26fe). Some simple programming experience, vector calculus, and linear algebra are the preferred prerequisites, but I'm happy to work something out with any interested and motivated student.
+
+# About me
+
+I am an NSF Astronomy and Astrophysics Postdoctoral Fellow at the University of Colorado, Boulder, primarily in the Department of Applied Mathematics. Previously, I was a Hale Postdoctoral Fellow at CU-Boulder, after doing a brief postdoc at the University of California, Santa Cruz (UCSC) working with Prof. Pascale Garaud in the Applied Math department. I earned my PhD in Physics at the University of Wisconsin-Madison working with Profs. Paul Terry and Ellen Zweibel (on plasma shear flows), and as an undergraduate I studied physics and math at the University of Oregon.
 
 My research interests include astrophysical/geophysical fluid dynamics and plasma physics, particularly instabilities and the turbulence they drive in novel regimes, including under the influence of rotation, magnetic fields, stratification, diffusive effects, and phase changes. Such turbulence is found in a wide range of systems; examples of systems that motivate my work include stellar interiors, gas giant planets, protoplanetary disks, Earth's oceans, and nuclear fusion devices. Turbulence can have profound effects on each of these systems, including influencing the lifetime of a star, enhancing the heat and salinity flux between different layers in Earth's oceans, or reducing the efficiency of a fusion device. The important effects of turbulence on these systems makes simple, predictive models for the effects of turbulence very desirable. Thus, a big part of my work involves developing such models. 
 
