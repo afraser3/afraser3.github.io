@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download an updated (as of August 2024) CV [here](http://afraser3.github.io/files/Fraser_CV.pdf).
+You can download an updated (as of June 2025) CV [here](http://afraser3.github.io/files/Fraser_CV.pdf).
