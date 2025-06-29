@@ -42,3 +42,7 @@ It seems that this feature of transverse wave + periodic shear flow is quite gen
 ### Nonmodal growth in shear layers in MHD
 
 More to come!
+
+## Rotating moist convection
+
+Recently, I worked with CU-Boulder PhD student Whitney Powers (Astrophysical and Planetary Sciences Department) on a project studying the effect of rotation on moist convection. In rotating Rayleigh-Bénard convection, depending on the values of various control parameters, different morphological regimes are attained in the limit of rapid rotation (cells, convective Taylor columns, plumes, QG turbulence, etc.). Whitney read about a very simple, recent model for moist convection—the [Rainy-Bénard model](https://ui.adsabs.harvard.edu/abs/2019JFM...862..162V/abstract)—and had the idea to add rotation and see how the different morphological regimes compare. You can read more about it [here](https://ui.adsabs.harvard.edu/abs/2025arXiv250501626P/abstract), but the punch line is that the regimes are quite different.
