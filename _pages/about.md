@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is a work in progress, but here you can find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf), or [click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (refereed publications listed at the end), last updated June 2025. The research tab above will take you to a partial summary of my research.
+Hello! This is a work in progress, but here you can find a copy of [my thesis](http://afraser3.github.io/files/Fraser_thesis.pdf), or [click here](http://afraser3.github.io/files/Fraser_CV.pdf) for my CV (refereed publications listed at the end), last updated August 2025. The research tab above will take you to a partial summary of my research.
 
 ### If you are a student (grad or undergrad) at CU-Boulder interested in working on one of several research topics ranging from simple fluid instabilities to MHD turbulence in stars, please get in touch!
 I'm especially hoping to work with students on follow-up work pertaining to [this paper on fluid instabilities](https://doi.org/10.1017/jfm.2022.782), or [this paper on MHD turbulence in stars](https://doi.org/10.3847/1538-4357/ad26fe). Some simple programming experience, vector calculus, and linear algebra are the preferred prerequisites, but I'm happy to work something out with any interested and motivated student.
