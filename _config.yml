@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adrian Fraser"
-  avatar           : "headshot.jpeg"
+  avatar           : "Portrait.jpeg"  # "headshot.jpeg"
   bio              : "NSF Postdoctoral Fellow at CU-Boulder, Applied Math"
   location         : "Boulder, CO"
   employer         :
