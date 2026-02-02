@@ -45,7 +45,7 @@ It seems that this feature of transverse wave + periodic shear flow is quite gen
 
 ### Nonmodal growth in shear layers in MHD
 
-More to come!
+In [this recent paper](https://arxiv.org/abs/2510.03141) with Profs. Kaminski (UC Berkeley) and Oishi (UNH), we found that, even when strong magnetic fields suppress exponential growth of small-amplitude perturbations by the Kelvin-Helmholtz instability, they need not suppress *nonmodal* growth. We considered the growth of small-amplitude perturbations in an MHD shear flow and found that even with strong magnetic fields, familiar hydrodynamic effects like Orr and lift-up (and their MHD counterparts) still drive perturbation growth even when modal KH instability is suppressed by strong magnetic fields.
 
 ## Rotating moist convection
 
