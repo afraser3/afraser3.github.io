@@ -50,7 +50,7 @@ Nature, [DOI](https://doi.org/10.1038/s41586-025-09912-0) | [ADS](https://ui.ads
 ---
 
 November 2025 — *Morphological Regimes of Rotating Moist Convection*  
-W.T. Powers\*, **A.E. Fraser**, E.H. Anders, J.S. Oishi, and B.P. Brown  
+*W.T. Powers*\*, **A.E. Fraser**, E.H. Anders, J.S. Oishi, and B.P. Brown  
 Astrophys. J., [DOI](https://doi.org/10.3847/1538-4357/ae1460) | [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..228P/abstract) | [arXiv](https://arxiv.org/abs/2505.01626)
 
 ---
@@ -62,7 +62,7 @@ J. Fluid Mech. Rapids, [DOI](https://doi.org/10.1017/jfm.2025.10641) | [arXiv](h
 ---
 
 June 2025 — *3D Simulations Demonstrate Propagating Thermohaline Convection for Polluted White Dwarfs*  
-I.G. Cresswell\*, **A.E. Fraser**, E.B. Bauer, E.H. Anders, and B.P. Brown  
+*I.G. Cresswell*\*, **A.E. Fraser**, E.B. Bauer, E.H. Anders, and B.P. Brown  
 Astrophys. J. Lett., [DOI](https://doi.org/10.3847/2041-8213/addbd5) | [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250320885C/abstract) | [arXiv](https://arxiv.org/abs/2503.20885)
 
 ---
@@ -81,7 +81,7 @@ Phys. Plasmas, letter, [DOI](https://doi.org/10.1063/5.0226026) | [ADS](https://
 ---
 
 May 2024 — *Predicting the Slowing of Stellar Differential Rotation by Instability-Driven Turbulence*  
-B. Tripathi\*, A.J. Barker, **A.E. Fraser**, P.W. Terry, and E.G. Zweibel  
+*B. Tripathi*\*, A.J. Barker, **A.E. Fraser**, P.W. Terry, and E.G. Zweibel  
 Astrophys. J., [DOI](https://doi.org/10.3847/1538-4357/ad38c3) | [ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..195T/abstract) | [arXiv](https://arxiv.org/abs/2403.07395)
 
 ---
@@ -93,13 +93,13 @@ Astrophys. J., [DOI](https://doi.org/10.3847/1538-4357/ad26fe) | [ADS](https://u
 ---
 
 October 2023 — *Three-dimensional shear-flow instability saturation via stable modes*  
-B. Tripathi\*, P.W. Terry, **A.E. Fraser**, E.G. Zweibel, M.J. Pueschel  
+*B. Tripathi*\*, P.W. Terry, **A.E. Fraser**, E.G. Zweibel, M.J. Pueschel  
 Phys. Fluids and Phys. Plasmas joint issue, [DOI](https://doi.org/10.1063/5.0167092) | [arXiv](http://arxiv.org/abs/2310.09339v1)
 
 ---
 
 July 2023 — *Nonlinear mode coupling and energetics of driven magnetized shear-flow turbulence*  
-B. Tripathi\*, **A.E. Fraser**, P.W. Terry, E.G. Zweibel, M.J. Pueschel, and E.A. Anders  
+*B. Tripathi*\*, **A.E. Fraser**, P.W. Terry, E.G. Zweibel, M.J. Pueschel, and E.A. Anders  
 Phys. Plasmas, [DOI](https://doi.org/10.1063/5.0156560) | [ADS](https://ui.adsabs.harvard.edu/abs/2023PhPl...30g2107T/abstract) | [arXiv](https://arxiv.org/abs/2307.08895)  
 → Designated as a Phys. Plasmas **Featured Article**
 
@@ -112,26 +112,26 @@ Astrophys. J., [DOI](https://doi.org/10.3847/1538-4357/aca024) | [arXiv](https:/
 ---
 
 October 2022 — *Non-ideal instabilities in sinusoidal shear flows with a streamwise magnetic field*  
-**A.E. Fraser**, I.G. Cresswell\*, and P. Garaud  
+**A.E. Fraser**, *I.G. Cresswell*\*, and P. Garaud  
 J. Fluid Mech., [DOI](https://doi.org/10.1017/jfm.2022.782) | [arXiv](https://arxiv.org/abs/2204.10875)  
 → [SDSC press release](https://www.sdsc.edu/news/2023/PR20230517_stellar_fluid_flow.html)
 
 ---
 
 September 2022 — *Near-cancellation of up-and down-gradient momentum transport in forced magnetized shear-flow turbulence*  
-B. Tripathi\*, **A.E. Fraser**, P.W. Terry, E.G. Zweibel, and M.J. Pueschel  
+*B. Tripathi*\*, **A.E. Fraser**, P.W. Terry, E.G. Zweibel, and M.J. Pueschel  
 Phys. Plasmas, [DOI](https://doi.org/10.1063/5.0101434) | [arXiv](https://arxiv.org/abs/2208.03342)
 
 ---
 
 July 2022 — *Mechanism for Sequestering Magnetic Energy at Large Scales in Shear-Flow Turbulence*  
-B. Tripathi\*, **A.E. Fraser**, P.W. Terry, E.G. Zweibel, and M.J. Pueschel  
+*B. Tripathi*\*, **A.E. Fraser**, P.W. Terry, E.G. Zweibel, and M.J. Pueschel  
 Phys. Plasmas, [DOI](https://doi.org/10.1063/5.0096886) | [arXiv](https://arxiv.org/abs/2205.01298)
 
 ---
 
 August 2022 — *Magnetized Oscillatory Double-diffusive Convection*  
-A. Sanghi\*, **A.E. Fraser**, E.R. Tian, and P. Garaud  
+*A. Sanghi*\*, **A.E. Fraser**, E.R. Tian, and P. Garaud  
 Astrophys. J., [DOI](https://doi.org/10.3847/1538-4357/ac73ed) | [arXiv](https://arxiv.org/abs/2205.02251)
 
 ---
@@ -143,7 +143,7 @@ Astrophys. J. Lett., [DOI](https://doi.org/10.3847/2041-8213/ac5cb5) | [ADS](htt
 ---
 
 February 2021 — *The impact of magnetic fields on momentum transport and saturation of shear-flow instability by stable modes*  
-**A.E. Fraser**, P.W. Terry, E.G. Zweibel, M.J. Pueschel, and J.M. Schroeder\*  
+**A.E. Fraser**, P.W. Terry, E.G. Zweibel, M.J. Pueschel, and *J.M. Schroeder*\*  
 Physics of Plasmas 28, 022309, [DOI](https://doi.org/10.1063/5.0034575) | [ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201011198F/abstract)  
 → Designated as a Phys. Plasmas **Editor's Pick**
 
