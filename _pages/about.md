@@ -10,6 +10,8 @@ redirect_from:
 
 I study mixing and angular momentum transport by turbulence in extreme regimes, often in stellar interiors, and sometimes in gas giants, atmospheres, and oceans. I employ 3D simulations, asymptotic analyses, 1D global models, and more to understand both the detailed structure of such turbulence and its impact on the larger system that hosts it. As a fluid dynamicist, I'm especially interested in MHD, fully developed turbulence, stably stratified flows, and rapidly rotating systems. As an astrophysicist, I'm interested in RGB stars (extra mixing on the RGB bump and rotational evolution generally), polluted WDs, the core spins of massive stars, and gas giants.
 
+**Recent press release in AAS Nova about my work:** [link](https://aasnova.org/2026/05/06/simulations-of-turbulent-mixing-close-one-gap-but-open-another/)
+
 **If you are a student (grad or undergrad) at CU-Boulder interested in working on one of several research topics ranging from simple fluid instabilities to MHD turbulence in stars, please get in touch!**
 I'm especially hoping to work with students on follow-up work pertaining to [this paper on fluid instabilities](https://doi.org/10.1017/jfm.2022.782), or [this paper on MHD turbulence in stars](https://doi.org/10.3847/1538-4357/ad26fe). Some simple programming experience, vector calculus, and linear algebra are the preferred prerequisites, but I'm happy to work something out with any interested and motivated student.
 
