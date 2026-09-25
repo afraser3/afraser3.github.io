@@ -17,6 +17,6 @@ I provide these lecture notes here in case others find them helpful, and as some
 
 ### Unit 2: Linear Algebra (chapter 3)
 
-**Lectures 11-12: Vectors, linear operators, and matrices** (§3.1) - [PDF](/files/teaching/sec_3p1_notes.pdf)
-**Lecture 13: Systems of linear algebraic equations** (§3.2) - [PDF](/files/teaching/3p2_lec_notes.pdf)
-**Lecture 14: Existence and uniqueness of solutions, and matrix iverses** (§3.3) - [PDF](/files/teaching/3p3_lec_notes.pdf)
+- **Lectures 11-12: Vectors, linear operators, and matrices** (§3.1) - [PDF](/files/teaching/sec_3p1_notes.pdf)
+- **Lecture 13: Systems of linear algebraic equations** (§3.2) - [PDF](/files/teaching/3p2_lec_notes.pdf)
+- **Lecture 14: Existence and uniqueness of solutions, and matrix iverses** (§3.3) - [PDF](/files/teaching/3p3_lec_notes.pdf)
