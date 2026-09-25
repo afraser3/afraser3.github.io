@@ -15,6 +15,8 @@ So, I created some notes for my students to have an alternative explanation of t
 
 I provide these lecture notes here in case others find them helpful, and as something of a teaching demonstration for job applications.
 
+I hand-wrote the originals of these notes. After lecture, I scanned and uploaded them to Claude to typeset a first draft of them. Then, I heavily edited the resulting .TeX source into what you see below.
+
 ### Unit 2: Linear Algebra (chapter 3)
 
 - **Lectures 11-12: Vectors, linear operators, and matrices** (§3.1) - [PDF](/files/teaching/sec_3p1_notes.pdf)
